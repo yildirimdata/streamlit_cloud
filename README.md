@@ -2,7 +2,7 @@
 
 Model deployment via Streamlit
 
-Strealit API and functions - methods
+Streamlit API and functions - methods
 
 Machine learning model to predict the sales by using the advertisements info on tv, radio and internet
 
